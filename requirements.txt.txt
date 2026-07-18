@@ -1,0 +1,6 @@
+langchain
+langchain-huggingface
+transformers
+torch
+accelerate
+huggingface-hub
