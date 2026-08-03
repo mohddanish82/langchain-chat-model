@@ -22,7 +22,7 @@ llm = HuggingFacePipeline.from_model_id(
 
 model = ChatHuggingFace(llm=llm)
 
-class simplechat(BaseModel):
+class Simplechat(BaseModel):
     question: str
 
 
