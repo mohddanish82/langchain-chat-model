@@ -1,6 +1,10 @@
+fastapi
+uvicorn
 langchain
+langchain-core
 langchain-huggingface
 transformers
 torch
 accelerate
 huggingface-hub
+pydantic
